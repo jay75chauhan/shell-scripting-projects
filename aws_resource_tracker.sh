@@ -1,3 +1,4 @@
+#!/bin/bash
 
 #list s3 bukets
 echo "List of S3 buckets:"
